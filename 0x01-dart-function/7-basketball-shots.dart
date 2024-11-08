@@ -26,5 +26,4 @@ int whoWins(Map<String, int> teamA, Map<String, int> teamB) {
 	return(0);
   }
 
-
 }
